@@ -31,8 +31,7 @@ collection routes, enabling real-time monitoring and efficient waste management.
 [instagram]: https://www.instagram.com/_ta_run_007/
 [linkedin]: (https://www.linkedin.com/in/tarun-tandur-a7a39024b)
 
-
-
-- 🌱 I’m currently learning Full Stack Web Development 
-- 📫 How to reach me: taruntandur009@gmail.com
+    
+   - 🌱 I’m currently learning Full Stack Web Development 
+   - 📫 How to reach me: taruntandur009@gmail.com
 -->
