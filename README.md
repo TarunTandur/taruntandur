@@ -1,36 +1,28 @@
-<h1>Hi, I'm Tarun! <br/><a href="https://github.com/joshmadakor1">Graduate</a>,  <a href="https://www.linkedin.com/in/tarun-tandur-a7a39024b">IT Student</a>
+<h1 align="center">Hi 👋, I'm Tarun</h1>
+<h3 align="center">A passionate frontend developer from India. Enthusiastic and quick-learning B. Tech graduate in Computer Science Engineering seeking a challenging entry-level role in a reputable organization.</h3>
 
-<h2>👨‍💻Projects:</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taruntandur&label=Profile%20views&color=0e75b6&style=flat" alt="taruntandur" /> </p>
 
-- <b>WEB CLOUD: Web based cloud storage for secure data sharing across platforms (Major Project)</b>
-  - The web-based cloud storage project utilizing CP-AB-KEM algorithm and Java and MySQL server achieves high 
-accuracy in secure data sharing. The CP-AB-KEM algorithm ensures that data is encrypted and decrypted 
-correctly, while the Java and MySQL server provide a robust and reliable platform for data storage and 
-retrieval.  
-  - The project enables secure data sharing across platforms, protecting sensitive data from unauthorized access.. 
-  - The project's scalability, reliability, and high security make it an ideal solution for organizations and 
-individuals seeking secure cloud storage solutions
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- <b>Geo Tracking of waste and triggering alerts and mapping areas with high waste index (Mini Project)</b>
-  - The proposed system addresses these challenges by providing a comprehensive geo-tracking solution. Raspberry 
-Pi is used as the core processing unit, while GPS modules and sensors are integrated to track waste bin locations 
-and fill levels. A web application provides real-time monitoring and updates, enabling citizens to track waste 
-collection progress. 
-  - The system offers improved efficiency, enhanced transparency, and better waste management, with potential for 
-future expansion and integration with smart city infrastructure, adaptation to other waste types, and 
-implementation of AI and ML algorithms. 
-  - Implemented a geo-tracking system using Raspberry Pi and GPS to track waste bin locations and optimize 
-collection routes, enabling real-time monitoring and efficient waste management.
+- 🌱 I’m currently learning **Frontend Technology**
 
-<h2> 🤳 Connect with me:</h2>
+- 🤝 I’m looking for help with **Full Stack**
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 👨‍💻 All of my projects are available at [https://github.com/TarunTandur](https://github.com/TarunTandur)
 
+- 💬 Ask me about **HTML**
 
-[instagram]: https://www.instagram.com/_ta_run_007/
-[linkedin]: (https://www.linkedin.com/in/tarun-tandur-a7a39024b)
-<br>
-   - 🌱 I’m currently learning Full Stack Web Development 
-   - 📫 How to reach me: taruntandur009@gmail.com
--->
+- 📫 How to reach me **taruntandur009@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://github.com/taruntandur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/taruntandur" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_ta_run_007?igsh=ddlmzzmyywfma2g3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_ta_run_007?igsh=ddlmzzmyywfma2g3" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/taruntan8hn9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/taruntan8hn9/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=taruntandur&show_icons=true&locale=en" alt="taruntandur" /></p>
